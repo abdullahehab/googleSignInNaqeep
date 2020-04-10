@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "61717013976",
+    "firebase_url": "https://testnaqeep.firebaseio.com",
+    "project_id": "testnaqeep",
+    "storage_bucket": "testnaqeep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61717013976:android:358530d27ebd63ca757ead",
+        "android_client_info": {
+          "package_name": "com.example.naqeep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61717013976-566sfr3ha1fmdjmtft6vpp187kb0lnh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-PK61VBeEEzK4ZZXr74fZ2bJJmEPHYbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61717013976-566sfr3ha1fmdjmtft6vpp187kb0lnh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
